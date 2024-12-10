@@ -1,0 +1,22 @@
+html {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+body {
+    background-color: cyan;
+}
+
+.title {
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', serif;
+
+}
+
+.subtitle {
+    font-size: 25px;
+    font-weight: 400;
+    background-color: navy;
+    color: aliceblue;
+
+
+}
